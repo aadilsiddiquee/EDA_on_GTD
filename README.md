@@ -30,8 +30,7 @@ The analysis is based on the Global Terrorism Database, which provides comprehen
 
 ## Files
 
-- `Global_Terrorism_Analysis.ipynb`: This Jupyter Notebook file contains the Python code for the EDA, including data loading, cleaning, analysis, and visualization.
-- `Data.csv`: The dataset used for this analysis.
+- `Global_Terrorism_EDA.ipynb`: This Jupyter Notebook file contains the Python code for the EDA, including data loading, cleaning, analysis, and visualization.
 
 ## Libraries Used
 
