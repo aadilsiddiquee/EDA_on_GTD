@@ -1,4 +1,4 @@
-# Global Terrorism Dataset Exploratory Data Analysis
+# <p align="center"> Exploratory Data Analysis on Global Terrorism Dataset </p>
 
 This repository contains an Exploratory Data Analysis (EDA) on the Global Terrorism Dataset. The EDA was performed using Python's Pandas, NumPy, Matplotlib, and Seaborn libraries to identify the hot zones of terrorism and gain valuable insights from the dataset.
 
@@ -26,7 +26,7 @@ The primary objectives of this EDA are as follows:
 
 ## Dataset
 
-The analysis is based on the Global Terrorism Database, which provides comprehensive information on terrorist incidents worldwide.
+The dataset used for this analysis was obtained from [Kaggle](https://www.kaggle.com/datasets/START-UMD/gtd/data), which provides comprehensive information on terrorist incidents worldwide.
 
 ## Files
 
